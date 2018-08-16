@@ -1,3 +1,5 @@
+This is a fork of the original repository from [coppit/docker-xeoma](https://github.com/coppit/docker-xeoma)
+
 # docker-xeoma
 
 This is a Docker container for running [Xeoma](http://felenasoft.com/xeoma/en/), surveillance software developed by Felena Soft. It supports a wide range of security cameras, has low CPU overhead, and a very easy-to-use interface. The container is just for the server, and does not have a user interface. Run the client on any computer or mobile device, connecting to the server on port 8090. You can also [configure Xeoma's cameras](https://felenasoft.com/xeoma/en/articles/transmitter/) to be shown in the web UI, which is accessible on port 10090.
